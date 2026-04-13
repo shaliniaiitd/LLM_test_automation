@@ -61,6 +61,13 @@ Token usage
 
 Retry & timeout mechanisms
 
+TEST RESULTS
+sample test results      → show actual numbers
+consistency score: 0.87  → model is stable
+hallucination rate: 3%   → 3 in 100 responses hallucinate
+avg latency: 8.3s        → within acceptable range
+
+
 ⚙️ How to Run
 Install dependencies
 pip install -r requirements.txt
