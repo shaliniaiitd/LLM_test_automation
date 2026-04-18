@@ -24,8 +24,6 @@ llm_test_automation/
     └── logger.py                 # Central logging utilities
 
 
-(More folders like data/, config/, or reports/ can be added later.)
-
 🧠 What This Framework Tests
 1️⃣ Response Quality
 
